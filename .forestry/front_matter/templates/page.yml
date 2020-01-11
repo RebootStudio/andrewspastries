@@ -19,6 +19,6 @@ fields:
   config:
     required: true
 pages:
-- src/pages/tempus-etiam.md
-- src/pages/generic.md
 - src/pages/consequat-dolor.md
+- src/pages/generic.md
+- src/pages/tempus-etiam.md
